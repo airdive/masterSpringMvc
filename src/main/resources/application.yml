@@ -1,0 +1,9 @@
+server:
+  port: 8082
+  context-path: "/sanban"
+  
+tomcat:
+  accept-count: 700
+  max-threads: 768
+  min-spare-threads: 64
+
